@@ -18,7 +18,7 @@ public class Excecao1 {
 			frase = "Agora tem algo aqui";
 			novaFrase = frase.toUpperCase();
 		}
-		System.out.println("\nFrase antia: " + frase);
+		System.out.println("\nFrase antiga: " + frase);
 		System.out.println("\nNova frase: " + novaFrase);
 		
 	}
